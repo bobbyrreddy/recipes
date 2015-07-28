@@ -12,19 +12,7 @@ Ingredients:
 
 Directions:
  1. Brown the ground beef in a large bot and drain off the excess fat.
-<<<<<<< HEAD
-<<<<<<< HEAD
- 2. Add the tomato sauce, chili powder, oregano, salt, and hot cayenne.
-||||||| merged common ancestors
- 2. Add the tomato sauce, chili powder, cumin, oregano, salt, and cayenne.
-=======
- 2. Add the tomato sauce, chili powder, oregano, salt, and cayenne.
->>>>>>> 46d921c78fe46ab7d7750df6f54135049e4adfa4
-||||||| merged common ancestors
- 2. Add the tomato sauce, chili powder, cumin, oregano, salt, and cayenne.
-=======
- 2. Add the tomato sauce, chili powder, oregano, salt, and cayenne.
->>>>>>> 46d921c78fe46ab7d7750df6f54135049e4adfa4
+ 2. Add the tomato sauce, chili powder, oregano, salt, and  hot chili cayenne.
  3. Stir, then cover and simmer over low heat for one hour.
  4. Mix the corn flour and 1/2 cup water in a small bowl.  Add to chili.
  5. Add the beans and simmer for 10 more minutes.
